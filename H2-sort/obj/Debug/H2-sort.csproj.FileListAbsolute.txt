@@ -1,0 +1,6 @@
+C:\Users\Gao\source\repos\H2-sort\bin\Debug\H2-sort.exe.config
+C:\Users\Gao\source\repos\H2-sort\bin\Debug\H2-sort.exe
+C:\Users\Gao\source\repos\H2-sort\bin\Debug\H2-sort.pdb
+C:\Users\Gao\source\repos\H2-sort\obj\Debug\H2-sort.exe
+C:\Users\Gao\source\repos\H2-sort\obj\Debug\H2-sort.pdb
+C:\Users\Gao\source\repos\H2-sort\obj\Debug\H2-sort.csprojAssemblyReference.cache
