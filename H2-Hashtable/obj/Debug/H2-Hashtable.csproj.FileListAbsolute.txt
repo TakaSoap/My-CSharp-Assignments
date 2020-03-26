@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H2-Hashtable\bin\Debug\H2-Hashtable.exe.config
+C:\Users\Gao\source\repos\H2-Hashtable\bin\Debug\H2-Hashtable.exe
+C:\Users\Gao\source\repos\H2-Hashtable\bin\Debug\H2-Hashtable.pdb
+C:\Users\Gao\source\repos\H2-Hashtable\obj\Debug\H2-Hashtable.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H2-Hashtable\obj\Debug\H2-Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H2-Hashtable\obj\Debug\H2-Hashtable.exe
+C:\Users\Gao\source\repos\H2-Hashtable\obj\Debug\H2-Hashtable.pdb
