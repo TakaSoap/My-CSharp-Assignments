@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H4-construction-basic\bin\Debug\H4-construction-basic.exe.config
+C:\Users\Gao\source\repos\H4-construction-basic\bin\Debug\H4-construction-basic.exe
+C:\Users\Gao\source\repos\H4-construction-basic\bin\Debug\H4-construction-basic.pdb
+C:\Users\Gao\source\repos\H4-construction-basic\obj\Debug\H4-construction.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H4-construction-basic\obj\Debug\H4-construction.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H4-construction-basic\obj\Debug\H4-construction-basic.exe
+C:\Users\Gao\source\repos\H4-construction-basic\obj\Debug\H4-construction-basic.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H4-static\bin\Debug\H4-static.exe.config
+C:\Users\Gao\source\repos\H4-static\bin\Debug\H4-static.exe
+C:\Users\Gao\source\repos\H4-static\bin\Debug\H4-static.pdb
+C:\Users\Gao\source\repos\H4-static\obj\Debug\H4-static.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H4-static\obj\Debug\H4-static.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H4-static\obj\Debug\H4-static.exe
+C:\Users\Gao\source\repos\H4-static\obj\Debug\H4-static.pdb

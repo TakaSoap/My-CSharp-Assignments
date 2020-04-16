@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H4-override\bin\Debug\H4-override.exe.config
+C:\Users\Gao\source\repos\H4-override\bin\Debug\H4-override.exe
+C:\Users\Gao\source\repos\H4-override\bin\Debug\H4-override.pdb
+C:\Users\Gao\source\repos\H4-override\obj\Debug\H4-override.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H4-override\obj\Debug\H4-override.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H4-override\obj\Debug\H4-override.exe
+C:\Users\Gao\source\repos\H4-override\obj\Debug\H4-override.pdb

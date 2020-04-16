@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H3-Foreach\bin\Debug\H3-Foreach.exe.config
+C:\Users\Gao\source\repos\H3-Foreach\bin\Debug\H3-Foreach.exe
+C:\Users\Gao\source\repos\H3-Foreach\bin\Debug\H3-Foreach.pdb
+C:\Users\Gao\source\repos\H3-Foreach\obj\Debug\H3-Foreach.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H3-Foreach\obj\Debug\H3-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H3-Foreach\obj\Debug\H3-Foreach.exe
+C:\Users\Gao\source\repos\H3-Foreach\obj\Debug\H3-Foreach.pdb
