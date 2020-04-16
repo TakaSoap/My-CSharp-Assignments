@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\H4-inherit\bin\Debug\H4-inherit.exe.config
+C:\Users\Gao\source\repos\H4-inherit\bin\Debug\H4-inherit.exe
+C:\Users\Gao\source\repos\H4-inherit\bin\Debug\H4-inherit.pdb
+C:\Users\Gao\source\repos\H4-inherit\obj\Debug\H4-inherit.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\H4-inherit\obj\Debug\H4-inherit.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\H4-inherit\obj\Debug\H4-inherit.exe
+C:\Users\Gao\source\repos\H4-inherit\obj\Debug\H4-inherit.pdb
