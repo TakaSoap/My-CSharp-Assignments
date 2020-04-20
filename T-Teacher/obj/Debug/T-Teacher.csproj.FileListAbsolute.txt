@@ -1,0 +1,7 @@
+C:\Users\Gao\source\repos\T-Teacher\obj\Debug\T-Teacher.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\T-Teacher\obj\Debug\T-Teacher.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\T-Teacher\bin\Debug\T-Teacher.exe.config
+C:\Users\Gao\source\repos\T-Teacher\bin\Debug\T-Teacher.exe
+C:\Users\Gao\source\repos\T-Teacher\bin\Debug\T-Teacher.pdb
+C:\Users\Gao\source\repos\T-Teacher\obj\Debug\T-Teacher.exe
+C:\Users\Gao\source\repos\T-Teacher\obj\Debug\T-Teacher.pdb
